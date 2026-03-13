@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ec8ab82d814a094a8c679dade620504
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _drillPrefab: {fileID: 1360854886449361708, guid: 5516794269ed21140b434795a092a6f9, type: 3}
+  - _powerPlantPrefab: {fileID: 913962416087699390, guid: dc270c5918796b84fab58748f6da4895, type: 3}
+  - _dronePrefab: {fileID: 656641325057124546, guid: 0ded5c95fca1ac24995ab86d28dc0115, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
