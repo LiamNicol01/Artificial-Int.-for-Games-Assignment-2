@@ -101,3 +101,6 @@ InitTestScene*.unity*
 # Proprietary files
 Assets/Behavior Designer/
 Behavior Designer.meta
+
+# Do not ship
+Build\Assignment 2_BurstDebugInformation_DoNotShip
